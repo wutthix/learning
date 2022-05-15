@@ -1,1 +1,1 @@
-This is from me, wutthichai
+This is from me, wutthichai, just try to modify this file and see what gona happen on git status command
